@@ -30,5 +30,4 @@
                 arrStep.push(gcd(arrTrue[j], arrTrue[j+1]))
             }
 
-            console.log(gcd(347, 5884))
-            console.log(gcd(5884, 833))
+           
