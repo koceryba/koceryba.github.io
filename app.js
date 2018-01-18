@@ -1,11 +1,4 @@
-// var app = new Vue({
-//     el: '#app',
-//     data: {
-//         arr: ''
-//     },
-//     methods: {
-//         go: 
-        // function () {
+
             var arr = '2,4,3,6,7'
             var res;
             var arrTrue = arr.split(',');
@@ -39,6 +32,3 @@
 
             console.log(gcd(347, 5884))
             console.log(gcd(5884, 833))
-        // }
-//     }
-//   })
